@@ -1,3 +1,12 @@
+## 免费下载与安装
+
+👉 [点击下载最新版本](https://github.com/emo555/yidu-translator/releases/latest)
+
+进入后，在 Assets 中下载 yidu ZIP 安装包。
+解压后，在 Chrome / Edge 的扩展管理页面开启“开发者模式”，
+点击“加载已解压的扩展程序”，选择包含 manifest.json 的文件夹。
+安装后请保留解压文件夹，不要删除或移动。
+详细安装步骤见下载页面。
 # 易读 · YIDU 0.8.9
 
 支持普通 HTTP / HTTPS 网页的 Chrome / Edge 双语翻译扩展，并保留亚马逊商品调研功能。默认 Google 免费翻译为简体中文，无需 Key；支持批量保存视频及字幕，并可将字幕合并到视频画面。源码基于 KISS Translator 请求池、BilingualTube 字幕预取模块改编，采用 GPL-3.0-only。
